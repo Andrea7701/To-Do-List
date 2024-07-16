@@ -1,13 +1,5 @@
 # To Do List
 
-
-# Screenshoot
-
-
-# Live Deployment
-
-
-
 # Built With 
  - ;
  - ;
